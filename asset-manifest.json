@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moontrip/static/css/main.fc7f45bd.chunk.css",
+    "main.js": "/moontrip/static/js/main.57e67299.chunk.js",
+    "main.js.map": "/moontrip/static/js/main.57e67299.chunk.js.map",
+    "runtime-main.js": "/moontrip/static/js/runtime-main.2d7e485f.js",
+    "runtime-main.js.map": "/moontrip/static/js/runtime-main.2d7e485f.js.map",
+    "static/js/2.c7ab25ca.chunk.js": "/moontrip/static/js/2.c7ab25ca.chunk.js",
+    "static/js/2.c7ab25ca.chunk.js.map": "/moontrip/static/js/2.c7ab25ca.chunk.js.map",
+    "static/js/3.59425a2f.chunk.js": "/moontrip/static/js/3.59425a2f.chunk.js",
+    "static/js/3.59425a2f.chunk.js.map": "/moontrip/static/js/3.59425a2f.chunk.js.map",
+    "index.html": "/moontrip/index.html",
+    "static/css/main.fc7f45bd.chunk.css.map": "/moontrip/static/css/main.fc7f45bd.chunk.css.map",
+    "static/js/2.c7ab25ca.chunk.js.LICENSE.txt": "/moontrip/static/js/2.c7ab25ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d7e485f.js",
+    "static/js/2.c7ab25ca.chunk.js",
+    "static/css/main.fc7f45bd.chunk.css",
+    "static/js/main.57e67299.chunk.js"
+  ]
+}
