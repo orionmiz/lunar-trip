@@ -1,0 +1,33 @@
+.controllerContainer {
+  font-size: 3rem;
+  user-select: none;
+  //color: white;
+  //text-shadow: black 0px 5px;
+
+  touch-action: none;
+
+  & > span {
+
+    &:hover {
+      color: skyblue;
+    }
+    
+    &:active {
+      color: skyblue;
+      opacity: 0.5;
+    }
+
+    @media (prefers-color-scheme: light) {
+      background: linear-gradient(white, gray);
+      background-clip: text;
+      color: transparent;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      background: linear-gradient(red, white);
+      background-clip: text;
+      color: transparent;
+    }
+
+  }
+}

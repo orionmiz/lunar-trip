@@ -1,0 +1,35 @@
+.spaceContainer {
+  text-align: center;
+  background-color: gray;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+  min-width: 250px;
+  max-width: 600px;
+  max-height: calc(100% - 20px);
+  margin: auto;
+}
+
+.controlPanel {
+  text-align: center;
+  background-color: gray;
+}
+
+.optionContainer {
+  display: flex;
+  justify-content: center;
+  & > * {
+    margin: 10px;
+  }
+  text-align: center;
+  align-items: center;
+}
+
+.flexbox {
+  display: flex;
+  justify-content: space-around;
+}
+
+.title {
+  padding-bottom: 10px;
+}
