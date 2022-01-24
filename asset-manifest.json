@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.16bed057.chunk.css",
-    "main.js": "/static/js/main.767f6ca1.chunk.js",
-    "main.js.map": "/static/js/main.767f6ca1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b457268c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b457268c.js.map",
-    "static/js/2.a4a48357.chunk.js": "/static/js/2.a4a48357.chunk.js",
-    "static/js/2.a4a48357.chunk.js.map": "/static/js/2.a4a48357.chunk.js.map",
-    "static/js/3.59425a2f.chunk.js": "/static/js/3.59425a2f.chunk.js",
-    "static/js/3.59425a2f.chunk.js.map": "/static/js/3.59425a2f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.16bed057.chunk.css.map": "/static/css/main.16bed057.chunk.css.map",
-    "static/js/2.a4a48357.chunk.js.LICENSE.txt": "/static/js/2.a4a48357.chunk.js.LICENSE.txt"
+    "main.css": "/moontrip/static/css/main.16bed057.chunk.css",
+    "main.js": "/moontrip/static/js/main.767f6ca1.chunk.js",
+    "main.js.map": "/moontrip/static/js/main.767f6ca1.chunk.js.map",
+    "runtime-main.js": "/moontrip/static/js/runtime-main.2d7e485f.js",
+    "runtime-main.js.map": "/moontrip/static/js/runtime-main.2d7e485f.js.map",
+    "static/js/2.a4a48357.chunk.js": "/moontrip/static/js/2.a4a48357.chunk.js",
+    "static/js/2.a4a48357.chunk.js.map": "/moontrip/static/js/2.a4a48357.chunk.js.map",
+    "static/js/3.59425a2f.chunk.js": "/moontrip/static/js/3.59425a2f.chunk.js",
+    "static/js/3.59425a2f.chunk.js.map": "/moontrip/static/js/3.59425a2f.chunk.js.map",
+    "index.html": "/moontrip/index.html",
+    "static/css/main.16bed057.chunk.css.map": "/moontrip/static/css/main.16bed057.chunk.css.map",
+    "static/js/2.a4a48357.chunk.js.LICENSE.txt": "/moontrip/static/js/2.a4a48357.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b457268c.js",
+    "static/js/runtime-main.2d7e485f.js",
     "static/js/2.a4a48357.chunk.js",
     "static/css/main.16bed057.chunk.css",
     "static/js/main.767f6ca1.chunk.js"
