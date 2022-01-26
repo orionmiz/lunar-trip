@@ -40,7 +40,11 @@
 body {
   background-color: #1d1135;
   height: 100vh;
-  overflow: hidden;
+  /*overflow: hidden;*/
+}
+
+body * {
+  user-select: none;
 }
 
 #root {
