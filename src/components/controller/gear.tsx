@@ -12,7 +12,15 @@ export default function Gear({ size = 5, power, change }: {
   const changeByPosition = (x: number) => {
     if (ref.current) {
       const { width, left } = ref.current.getBoundingClientRect();
-      const percent = (x - left) / width * 100;
+      let percent = (x - left) / width * 100;
+
+      // let percent be between 0 and 100
+      if (percent < 0) {
+        percent = 0;
+      } else if (percent > 100) {
+        percent = 100;
+      }
+
       const val = Math.round(percent / (100 / (size - 1)));
       change(val);
     }
